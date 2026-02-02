@@ -13,4 +13,5 @@
 
 `<h1> Hola markdown</h1>`
 
-![perrito](assets/images/cachorro.jpg)
+[![perrito](assets/images/cachorro.jpg)](https://code.visualstudio.com/docs/configure/themes) 
+
