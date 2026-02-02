@@ -11,3 +11,6 @@
 
 [ACADEMIA ENDIGITAL](https://code.visualstudio.com/docs/configure/themes)
 
+`<h1> Hola markdown</h1>`
+
+![perrito](assets/images/cachorro.jpg)
