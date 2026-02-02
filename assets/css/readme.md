@@ -9,5 +9,5 @@
 - Sintaxis
 -Variable **Tipos** __Tipos__
 
-[ACADEMIA ENDIGITAL] (https://code.visualstudio.com/docs/configure/themes)
+[ACADEMIA ENDIGITAL](https://code.visualstudio.com/docs/configure/themes)
 
