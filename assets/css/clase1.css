@@ -1,5 +1,5 @@
 h1{
-    color:blue;
+    color: blue;
     font-size: 80px;
     font-weight: 800;
 }
@@ -8,15 +8,16 @@ h1{
     font-size: 36px;
     font-weight: 400;
 }
+
 .box{
     width: 200px;
     height: 200px;
     background-color: blue;
     color: white;
-    padding: 50px 80px;
-    margin: 150px;
+    padding: 50px;
+    margin-left: 150px;
 }
 .box:hover{
-color: yellow;
-background-color: black;
+    color: yellow;
+    background-color: black;
 }
